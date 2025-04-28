@@ -1,4 +1,4 @@
-download and run the main.py file,
-but before that get your api key from tbdb and put it in main.py
-model will get trained and necessary
-files will be created 
+download the project,
+get your api key from tbdb and put it in main.py
+run using streamlit run main.py
+model will get trained and necessary files will be created 
